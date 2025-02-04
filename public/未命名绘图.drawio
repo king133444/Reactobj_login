@@ -446,15 +446,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dmqnpBjw-a6B4gVSiQjP-1" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#f8cecc;strokeColor=#b85450;align=center;rounded=1;arcSize=8;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="2444" width="370" height="586" as="geometry" />
-        </mxCell>
-        <mxCell id="dmqnpBjw-a6B4gVSiQjP-2" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;arcSize=5;" vertex="1" parent="1">
-          <mxGeometry x="480" y="2460" width="820" height="560" as="geometry" />
-        </mxCell>
-        <mxCell id="dmqnpBjw-a6B4gVSiQjP-3" value="" style="whiteSpace=wrap;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;rounded=1;arcSize=7;" vertex="1" parent="1">
-          <mxGeometry x="32" y="2430" width="420" height="618" as="geometry" />
-        </mxCell>
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-79" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;dashed=1;" edge="1" parent="1" source="dmqnpBjw-a6B4gVSiQjP-4" target="dmqnpBjw-a6B4gVSiQjP-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -491,7 +482,7 @@
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-10" value="提取特征&#xa;        H_t^{(i)}" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="682.5" y="2655.5" width="95" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="dmqnpBjw-a6B4gVSiQjP-12" value="提取特征&#xa;        H_s^{(i)}" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;" vertex="1" parent="1">
+        <mxCell id="dmqnpBjw-a6B4gVSiQjP-12" value="提取特征&#xa;        H_s^{(i)}" style="strokeWidth=2;shape=process;whiteSpace=wrap;size=0.04;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;glass=0;" vertex="1" parent="1">
           <mxGeometry x="529" y="2655.5" width="95" height="63" as="geometry" />
         </mxCell>
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-13" value="交叉注意力模块&#xa;        H_{fuse}^{(i)} = CrossAtt(H_t^{(i)}, H_s^{(i)})" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=south;gradientColor=#7ea6e0;rounded=1;" vertex="1" parent="1">
@@ -639,6 +630,9 @@
         </mxCell>
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-94" value="分发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="180" y="2916.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dmqnpBjw-a6B4gVSiQjP-104" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#66FFFF;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/hyperledger_fabric.svg;rounded=1;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1302" y="2565.5" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
