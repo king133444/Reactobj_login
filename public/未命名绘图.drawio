@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.0.11">
   <diagram name="第 1 页" id="DEk5K5slilRWWlr_zEea">
-    <mxGraphModel dx="1485" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1311" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,7 +329,7 @@
         <mxCell id="OnDtbN8vTFsmd_4l0c0f-1" value="" style="swimlane;startSize=0;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="2920" y="460" width="780" height="540" as="geometry" />
         </mxCell>
-        <mxCell id="dmqnpBjw-a6B4gVSiQjP-13" value="交叉注意力模块&#xa;\[ H_{fuse}^{(i)} = CrossAtt(H_t^{(i)}, H_s^{(i)}) \]&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=south;gradientColor=#7ea6e0;rounded=1;" parent="OnDtbN8vTFsmd_4l0c0f-1" vertex="1">
+        <mxCell id="dmqnpBjw-a6B4gVSiQjP-13" value="&#xa;\[ H_{fuse}^{(i)} = CrossAtt(H_t^{(i)}, H_s^{(i)}) \]&#xa;" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=south;gradientColor=#7ea6e0;rounded=1;" parent="OnDtbN8vTFsmd_4l0c0f-1" vertex="1">
           <mxGeometry x="43.75" y="290" width="234" height="77" as="geometry" />
         </mxCell>
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-53" value="学生模型&#xa;\[θ_s^{(i,k)}\]" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;rounded=1;" parent="OnDtbN8vTFsmd_4l0c0f-1" vertex="1">
@@ -394,7 +394,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-104" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=#66FFFF;fontSize=12;spacingTop=3;image=img/lib/ibm/blockchain/hyperledger_fabric.svg;rounded=1;labelBorderColor=none;" parent="OnDtbN8vTFsmd_4l0c0f-1" vertex="1">
-          <mxGeometry x="680" y="390" width="60" height="60" as="geometry" />
+          <mxGeometry x="680" y="177" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OnDtbN8vTFsmd_4l0c0f-6" value="&lt;p&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font face=&quot;楷体&quot;&gt;交叉注意力模块&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontFamily=Noto Serif;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNoto%2BSerif;" vertex="1" parent="1">
+          <mxGeometry x="3560" y="1110" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
