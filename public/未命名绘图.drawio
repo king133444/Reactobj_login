@@ -522,13 +522,12 @@
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-19" value="门控注意力网络&#xa;\[α_i = Softmax(GRU(L^{(i)}, n^{(i)}, Δθ_s^{(i)}))\]" style="shape=hexagon;perimeter=hexagonPerimeter2;fixedSize=1;strokeWidth=2;whiteSpace=wrap;fillColor=#f5f5f5;strokeColor=#666666;rounded=1;gradientColor=#b3b3b3;" parent="1" vertex="1">
           <mxGeometry x="1372.5" y="2592.5" width="259.5" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="dmqnpBjw-a6B4gVSiQjP-99" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="dmqnpBjw-a6B4gVSiQjP-20" target="dmqnpBjw-a6B4gVSiQjP-4" edge="1">
+        <mxCell id="CUIcnq5JVYCkyGEl8Zd1-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0.145;entryY=1;entryDx=0;entryDy=-2.9;entryPerimeter=0;" edge="1" parent="1" source="dmqnpBjw-a6B4gVSiQjP-20" target="dmqnpBjw-a6B4gVSiQjP-4">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1502.2500000000005" y="2954.75" as="targetPoint" />
+            <mxPoint x="1502.25" y="2944.7500000000005" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1502" y="3100" />
-              <mxPoint x="60" y="3100" />
-              <mxPoint x="60" y="2778" />
+              <mxPoint x="1502" y="3070" />
+              <mxPoint x="96" y="3070" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -543,7 +542,7 @@
         <mxCell id="dmqnpBjw-a6B4gVSiQjP-27" value="" style="curved=1;startArrow=none;endArrow=block;rounded=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="dmqnpBjw-a6B4gVSiQjP-55" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="470" y="2370" />
+              <mxPoint x="610" y="2390" />
             </Array>
             <mxPoint x="340" y="2560" as="sourcePoint" />
             <mxPoint x="830" y="2461.0000000000005" as="targetPoint" />
