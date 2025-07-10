@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
   <diagram name="第 1 页" id="DEk5K5slilRWWlr_zEea">
-    <mxGraphModel dx="7130" dy="3950" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
+    <mxGraphModel dx="1783" dy="988" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2351,6 +2351,75 @@
             <Array as="points">
               <mxPoint x="553" y="5060" />
               <mxPoint x="553" y="4804" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-2" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2522" y="4198.22" width="150" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-3" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2722" y="4198.22" width="150" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-4" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3027" y="4198.22" width="150" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-5" value="操作系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3230" y="4198.22" width="150" height="606" as="geometry" />
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-6" value="选择设备sdb" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-2" target="axcrY9eZtMWzr494mgVE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2706" y="4301.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-7" value="GET /disk/info?disk_name=sdb" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-3" target="axcrY9eZtMWzr494mgVE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2958" y="4357.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-8" value="执行udevadm info" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3212" y="4413.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-9" value="执行hdparm -N" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3212" y="4469.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-10" value="执行lsblk -npo" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3212" y="4525.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-11" value="聚合检测结果" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3153" y="4573.22" />
+              <mxPoint x="3153" y="4603.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-12" value="返回设备详情JSON" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2961" y="4651.22" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="axcrY9eZtMWzr494mgVE-13" value="渲染设备详情面板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="axcrY9eZtMWzr494mgVE-3" target="axcrY9eZtMWzr494mgVE-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2709" y="4699.22" />
             </Array>
           </mxGeometry>
         </mxCell>
