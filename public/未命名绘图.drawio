@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="27.2.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="27.1.6">
   <diagram name="第 1 页" id="DEk5K5slilRWWlr_zEea">
-    <mxGraphModel dx="2377" dy="1317" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2806" dy="1422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2354,158 +2354,159 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-2" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-2" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2522" y="4198.22" width="150" height="606" as="geometry" />
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-3" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-3" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="2722" y="4198.22" width="150" height="606" as="geometry" />
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-4" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-4" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="3027" y="4198.22" width="150" height="606" as="geometry" />
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-5" value="操作系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-5" value="操作系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="3230" y="4198.22" width="150" height="606" as="geometry" />
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-6" value="选择设备sdb" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-2" target="axcrY9eZtMWzr494mgVE-3" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-6" value="选择设备sdb" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-2" target="axcrY9eZtMWzr494mgVE-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2706" y="4301.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-7" value="GET /disk/info?disk_name=sdb" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-3" target="axcrY9eZtMWzr494mgVE-4" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-7" value="GET /disk/info?disk_name=sdb" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-3" target="axcrY9eZtMWzr494mgVE-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2958" y="4357.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-8" value="执行udevadm info" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-8" value="执行udevadm info" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3212" y="4413.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-9" value="执行hdparm -N" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-9" value="执行hdparm -N" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3212" y="4469.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-10" value="执行lsblk -npo" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-10" value="执行lsblk -npo" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3212" y="4525.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-11" value="聚合检测结果" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-4" edge="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="axcrY9eZtMWzr494mgVE-11" value="聚合检测结果" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-4" edge="1">
+          <mxGeometry x="-0.0839" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3153" y="4573.22" />
-              <mxPoint x="3153" y="4603.22" />
+              <mxPoint x="3180" y="4560" />
+              <mxPoint x="3200" y="4620" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-12" value="返回设备详情JSON" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-3" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-12" value="返回设备详情JSON" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-4" target="axcrY9eZtMWzr494mgVE-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2961" y="4651.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="axcrY9eZtMWzr494mgVE-13" value="渲染设备详情面板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="axcrY9eZtMWzr494mgVE-3" target="axcrY9eZtMWzr494mgVE-2" edge="1">
+        <mxCell id="axcrY9eZtMWzr494mgVE-13" value="渲染设备详情面板" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;fontFamily=Times New Roman;fontSize=18;" parent="1" source="axcrY9eZtMWzr494mgVE-3" target="axcrY9eZtMWzr494mgVE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2709" y="4699.22" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-1" value="操作员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-1" value="操作员" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3520" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-2" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-2" value="前端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3749" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-3" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-3" value="后端" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4026" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-4" value="任务引擎" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-4" value="任务引擎" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4226" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-5" value="存储设备" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-5" value="存储设备" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4427" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-6" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-6" value="数据库" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4627" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-7" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-7" value="Redis" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};size=65;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="4827" y="4140" width="150" height="1886" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-8" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#6c8ebf;height=20;width=30;fillColor=#dae8fc;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-8" value="opt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#6c8ebf;height=20;width=30;fillColor=#dae8fc;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3584" y="4511" width="1329" height="379" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-9" value="[实时进度监控]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="VTACpjNmJeFy2ktpt_wq-8">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-9" value="[实时进度监控]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="VTACpjNmJeFy2ktpt_wq-8" vertex="1">
           <mxGeometry x="30" width="1299" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-10" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#6c8ebf;height=20;width=30;fillColor=#dae8fc;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-10" value="alt" style="shape=umlFrame;dashed=1;pointerEvents=0;dropTarget=0;strokeColor=#6c8ebf;height=20;width=30;fillColor=#dae8fc;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="3584" y="5178" width="1129" height="427" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-11" value="[异常场景处理]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="VTACpjNmJeFy2ktpt_wq-10">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-11" value="[异常场景处理]" style="text;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" parent="VTACpjNmJeFy2ktpt_wq-10" vertex="1">
           <mxGeometry x="30" width="1099" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-12" value="打开任务监控页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-1" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-12" value="打开任务监控页" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-1" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3718" y="4243" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-13" value="GET /tasks" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-13" value="GET /tasks" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3971" y="4299" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-14" value="查询任务状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-6">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-14" value="查询任务状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4410" y="4347" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-15" value="返回任务列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-6" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-15" value="返回任务列表" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-6" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4413" y="4395" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-16" value="返回JSON任务数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-16" value="返回JSON任务数据" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3974" y="4443" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-17" value="渲染任务卡片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-17" value="渲染任务卡片" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3721" y="4491" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-18" value="GET /tasks/stream (SSE)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-18" value="GET /tasks/stream (SSE)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3971" y="4592" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-19" value="每1%更新进度" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-19" value="每1%更新进度" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4352" y="4640" />
@@ -2513,56 +2514,56 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-20" value="发布进度更新" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-7">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-20" value="发布进度更新" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4610" y="4718" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-21" value="推送进度事件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-7" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-21" value="推送进度事件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-7" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4513" y="4766" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-22" value="SSE数据流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-22" value="SSE数据流" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3974" y="4822" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-23" value="更新进度条" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-23" value="更新进度条" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3721" y="4870" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-24" value="点击&quot;暂停&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-1" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-24" value="点击&quot;暂停&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-1" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3718" y="4928" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-25" value="POST /task/control (pause)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-25" value="POST /task/control (pause)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3971" y="4984" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-26" value="设置暂停标志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-26" value="设置暂停标志" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4210" y="5032" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-27" value="保存当前状态" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-27" value="保存当前状态" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4352" y="5080" />
@@ -2570,28 +2571,28 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-28" value="操作成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-28" value="操作成功响应" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3974" y="5158" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-29" value="发送擦除命令" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-5">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-29" value="发送擦除命令" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4410" y="5251" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-30" value="返回错误(I/O故障)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-5" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-30" value="返回错误(I/O故障)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-5" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4413" y="5307" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-31" value="捕获异常" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-31" value="捕获异常" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4352" y="5355" />
@@ -2599,70 +2600,70 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-32" value="更新状态(异常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-6">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-32" value="更新状态(异常)" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4510" y="5433" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-33" value="推送异常事件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-33" value="推送异常事件" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4213" y="5481" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-34" value="SSE异常通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-34" value="SSE异常通知" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3974" y="5537" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-35" value="显示异常警示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-1">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-35" value="显示异常警示" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3721" y="5585" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-36" value="修复问题后点击&quot;重试&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-1" target="VTACpjNmJeFy2ktpt_wq-2">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-36" value="修复问题后点击&quot;重试&quot;" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-1" target="VTACpjNmJeFy2ktpt_wq-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3718" y="5643" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-37" value="POST /task/retry" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-37" value="POST /task/retry" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-2" target="VTACpjNmJeFy2ktpt_wq-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="3971" y="5699" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-38" value="重新初始化任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-38" value="重新初始化任务" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-3" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4210" y="5747" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-39" value="验证设备状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-5">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-39" value="验证设备状态" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4410" y="5795" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-40" value="返回正常" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-5" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-40" value="返回正常" style="verticalAlign=bottom;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;dashed=1;dashPattern=2 3;endArrow=block;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-5" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4413" y="5843" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VTACpjNmJeFy2ktpt_wq-41" value="从断点继续执行" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" edge="1" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4">
+        <mxCell id="VTACpjNmJeFy2ktpt_wq-41" value="从断点继续执行" style="curved=1;endArrow=block;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;strokeWidth=2;" parent="1" source="VTACpjNmJeFy2ktpt_wq-4" target="VTACpjNmJeFy2ktpt_wq-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="4352" y="5891" />
