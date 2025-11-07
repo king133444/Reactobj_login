@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="DEk5K5slilRWWlr_zEea">
-    <mxGraphModel dx="2391" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2220" dy="1066" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -311,11 +311,11 @@
         <mxCell id="9yJSQEU-N-zRBiYlqDL6-161" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&amp;nbsp;\[L_{CE,k}^{(t)}\]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="2125.84" y="300.55" width="60" height="45.13" as="geometry" />
         </mxCell>
-        <mxCell id="9yJSQEU-N-zRBiYlqDL6-162" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Sample&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Size&lt;/i&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2233.5" y="440.02" width="89.5" height="23.48" as="geometry" />
+        <mxCell id="9yJSQEU-N-zRBiYlqDL6-162" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;Sample&amp;nbsp;&lt;/i&gt;&lt;/font&gt;&lt;i style=&quot;color: light-dark(rgb(0, 0, 0), rgb(237, 237, 237)); font-size: 18px; background-color: transparent;&quot;&gt;Size&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="2217.5" y="436.51" width="106.5" height="23.48" as="geometry" />
         </mxCell>
         <mxCell id="9yJSQEU-N-zRBiYlqDL6-163" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;\[n_k\]&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="2168.5" y="437.63" width="69.5" height="30" as="geometry" />
+          <mxGeometry x="2172.65" y="429.98999999999995" width="69.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9yJSQEU-N-zRBiYlqDL6-164" value="" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;fontFamily=Times New Roman;gradientColor=#7ea6e0;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="2490" y="380" width="130" height="100" as="geometry" />
@@ -3905,7 +3905,7 @@
           <mxGeometry x="965.72" y="624" width="43.78" height="51.5" as="geometry" />
         </mxCell>
         <mxCell id="KQOS54u1KSUKmcNO7STv-1" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;\[ϕ_k^{(t,e)}\]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="2146" y="181.94" width="60" height="30" as="geometry" />
+          <mxGeometry x="2157.5" y="176" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KQOS54u1KSUKmcNO7STv-2" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;\[ϕ_k^{(t)}\]&lt;/font&gt;" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1335" y="461.31" width="60" height="30" as="geometry" />
