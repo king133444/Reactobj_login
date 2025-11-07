@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="28.2.9">
   <diagram name="第 1 页" id="DEk5K5slilRWWlr_zEea">
-    <mxGraphModel dx="5180" dy="2487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
+    <mxGraphModel dx="2391" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="6400" pageHeight="6400" background="none" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -452,10 +452,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="9yJSQEU-N-zRBiYlqDL6-207" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\[z_t = f_t^{dec}(H_t)\]&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;fontFamily=Times New Roman;" parent="1" vertex="1">
-          <mxGeometry x="1600" y="110" width="121.25" height="54.38" as="geometry" />
+        <mxCell id="9yJSQEU-N-zRBiYlqDL6-207" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;\[z_t = f_t^{dec}(H_{t};θ_{}^{(t)})\]&lt;/span&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;fontFamily=Times New Roman;" parent="1" vertex="1">
+          <mxGeometry x="1590" y="110" width="131.25" height="54.38" as="geometry" />
         </mxCell>
-        <mxCell id="9yJSQEU-N-zRBiYlqDL6-210" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\[z_s = f_s^{dec}(H_{fuse};ϕ_k^{(t,e-1)}\]&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;fontFamily=Times New Roman;" parent="1" vertex="1">
+        <mxCell id="9yJSQEU-N-zRBiYlqDL6-210" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;\[z_s = f_s^{dec}(H_{fuse};ϕ_k^{(t,e-1)})\]&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;strokeColor=#6c8ebf;fillColor=#dae8fc;gradientColor=#7ea6e0;fontFamily=Times New Roman;" parent="1" vertex="1">
           <mxGeometry x="1928.05" y="324.38" width="171.95" height="65.62" as="geometry" />
         </mxCell>
         <mxCell id="9yJSQEU-N-zRBiYlqDL6-213" value="&lt;font class=&quot;custom-cursor-default-hover&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;i style=&quot;&quot;&gt;&lt;b style=&quot;&quot;&gt;Cross Attention Module&lt;/b&gt;&lt;/i&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#182E3E;fontFamily=Times New Roman;" parent="1" vertex="1">
